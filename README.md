@@ -19,7 +19,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 Breast Cancer detection using SVM
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
 ### Built With
