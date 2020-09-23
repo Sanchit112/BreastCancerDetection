@@ -35,7 +35,7 @@ Distributed under the MIT License. See [`LICENSE`](https://github.com/Sanchit112
 <!-- CONTACT -->
 ## Contact
 
-[Sanchit Burkule] (mailto:sanchitburkule@gmail.com)
+[Sanchit Burkule](mailto:sanchitburkule@gmail.com)
 
 Project Link: [https://github.com/Sanchit112/BreastCancerDetection](https://github.com/Sanchit112/BreastCancerDetection)
 
